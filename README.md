@@ -1,6 +1,6 @@
 ## Aplicativo de Previsão de Bioatividade
 
-# ![Bioactivity Prediction App](logo.png)
+# ![Bioactivity Prediction App](bioactivity-prediction-app-main/logo.png)
 
 Este repositório contém um aplicativo web para previsão de bioatividade de compostos utilizando técnicas de machine learning.
 
